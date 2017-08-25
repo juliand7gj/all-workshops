@@ -85,13 +85,13 @@ Se reinicia el sistema y se verifica que la variable sigue:
 *	https://blog.desdelinux.net/estructura-de-directorios-en-linux/
 *	http://www.sysadmit.com/2016/04/linux-variables-de-entorno-permanentes.html
 
-[1]: imagen1.png
-[2]: imagen2.png
-[3]: imagen3.png
-[4]: imagen4.png
-[5]: imagen5.png
-[6]: imagen6.png
-[7]: imagen7.png
-[8]: imagen8.png
-[9]: imagen9.png
+[1]: Imagen1.png
+[2]: Imagen2.png
+[3]: Imagen3.png
+[4]: Imagen4.png
+[5]: Imagen5.png
+[6]: Imagen6.png
+[7]: Imagen7.png
+[8]: Imagen8.png
+[9]: Imagen9.png
 
